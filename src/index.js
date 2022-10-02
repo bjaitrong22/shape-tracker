@@ -1,4 +1,4 @@
-import Triangle from './triangle.js';
+import Triangle from './js/triangle.js';
 import './css/styles.css';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
